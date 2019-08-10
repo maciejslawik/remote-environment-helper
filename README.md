@@ -42,7 +42,8 @@ on your keyboard to invoke autocompletion.
 
 ### Updating access data ###
 
-To add/update access data for project/environment edit the [access.csv file](envhelper/data/access.csv).
+To add/update access data for project/environment copy the ```envhelper/data/access.csv.dist``` 
+to ```envhelper/data/access.csv``` and edit.
 
 The file structure goes as follows:
 ```

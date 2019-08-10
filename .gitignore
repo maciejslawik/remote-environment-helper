@@ -5,3 +5,4 @@ docker-compose.yml
 docker/
 __pycache__
 config.json
+envhelper/data/access.csv
